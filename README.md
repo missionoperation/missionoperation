@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning HTML5
 - 💞️ I’m looking to collaborate on Sites
 - ⚡ Fun fact: I love Minecraft
+- What I'm working on: I am working on making a site that promotes eaglercraft gamers. The games on that site or not mine, their from other people's reposetories
 
 <!---
 missionoperation/missionoperation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
